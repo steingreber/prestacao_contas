@@ -1,0 +1,70 @@
+.quadros {
+	background-color: #bc3908;
+	color: #f1faee;
+}
+.quadrosCinza {
+	background-color: #621708;
+	color: #f6aa1c;
+}
+.td-direita {
+	text-align: right;
+	padding-right: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 12px;
+}
+.td-esquerda {
+	text-align: left;
+	padding-right: 10px;
+	padding-top: 10px;
+	font-size: 10px;
+}
+.tr-campos{
+	background-color: #941b0c;
+    color: #f6aa1c;
+}
+
+.cordiv0 {
+	border-radius:10px;
+	background:#220901;
+	margin:10px;
+	padding-bottom:10px;
+	box-shadow:1px 1px 8px 0px #000000;
+	color: #f6aa1c;
+}
+
+.cordiv1 {
+	border-radius:10px;
+	background:#f6aa1c;
+	margin:10px;
+	padding-bottom:10px;
+	box-shadow:1px 1px 8px 0px #000000;
+	color: #220901;
+}
+
+.aviso0 {
+	border-radius:10px;
+	background:#941b0c;
+	margin:10px;
+	padding-bottom:10px;
+	box-shadow:1px 1px 8px 0px #000000;
+	color: #f6aa1c;
+}
+
+.navbar0 {
+	box-shadow: 3px 3px 6px;
+	border-radius:10px;
+	background: #220901;
+}
+
+body{
+	background-color: #dad7cd;
+}
+
+a{
+	color:#dad7cd;
+	font-weight: 400;
+	font-size: 15px;
+}
+
+

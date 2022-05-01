@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2022/01/07" author="e.World Technology Ltd.">
+  <project id="{4608F4F3-4555-4766-9AD8-B0379A4856EE}" file="E:\Trabalhos_Gerais\prestacao_contas\prestacao_contas.pmp" name="prestacao_contas" product="PHPMaker" version="14.0" datetime="2022/01/07 14:28:26" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="rc25_ano_vigente" name="rc25_ano_vigente" caption="Ano" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_commentmeta" name="rc25_commentmeta" caption="rc 25 commentmeta" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_comments" name="rc25_comments" caption="rc 25 comments" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_links" name="rc25_links" caption="rc 25 links" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_ngg_album" name="rc25_ngg_album" caption="rc 25 ngg album" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_ngg_gallery" name="rc25_ngg_gallery" caption="rc 25 ngg gallery" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_ngg_pictures" name="rc25_ngg_pictures" caption="rc 25 ngg pictures" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_options" name="rc25_options" caption="rc 25 options" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_postmeta" name="rc25_postmeta" caption="rc 25 postmeta" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_posts" name="rc25_posts" caption="rc 25 posts" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_term_relationships" name="rc25_term_relationships" caption="rc 25 term relationships" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_term_taxonomy" name="rc25_term_taxonomy" caption="rc 25 term taxonomy" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_termmeta" name="rc25_termmeta" caption="rc 25 termmeta" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_terms" name="rc25_terms" caption="rc 25 terms" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_usermeta" name="rc25_usermeta" caption="rc 25 usermeta" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_users" name="rc25_users" caption="rc 25 users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_repasses" name="rc25_a_repasses" caption="Repasse de Valores" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_termos" name="rc25_a_termos" caption="Parcerias" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="audittrail" name="audittrail" caption="audittrail" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_planos_aplicacao" name="rc25_a_planos_aplicacao" caption="Planos de Aplicação" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_planos_despesas" name="rc25_a_planos_despesas" caption="Despesas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_recursos_humanos" name="rc25_a_recursos_humanos" caption="Recursos Humanos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_rhfuncoes" name="rc25_a_rhfuncoes" caption="Funções" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_rhpessoas" name="rc25_a_rhpessoas" caption="Pessoas F/J" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_ra_natureza" name="rc25_a_ra_natureza" caption="Natureza Operação" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rc25_a_recurso_aplicados" name="rc25_a_recurso_aplicados" caption="Recurso Aplicados" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inicial_php" name="inicial.php" caption="Sistema de Transparência de Contas" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_anos" name="report_anos" caption="Anos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view_parceira_repase" name="view_parceira_repase" caption="view parceira repase" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_parceria_repasse" name="report_parceria_repasse" caption="Repasses" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="clsTexto_php" name="clsTexto.php" caption="extenso" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="meucss_css" name="meucss.css" caption="" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_planos_aplicacao_" name="report_planos_aplicacao_" caption="Planos de Aplicação" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_recursos_apl_" name="report_recursos_apl_" caption="Recursos Aplicados" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_rh_" name="report_rh_" caption="Recursos Humanos" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report_terceiros_" name="report_terceiros_" caption="Serviços de Terceiros" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="rca25_configurar" name="rca25_configurar" caption="Configurar" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
